@@ -1,2 +1,23 @@
-# theme: jekyll-theme-cayman
-remote_theme: samarsault/plainwhite-jekyll
+theme: jekyll-theme-cayman
+title: Xu Tingting
+email: xutingting at smail dot nju dot edu dot cn
+author: 
+  name: Xu Tingting
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+collections:
+  my_collection:
+    output: true
