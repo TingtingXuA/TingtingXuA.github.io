@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Xu Tingting Pages
 
 You can use the [editor on GitHub](https://github.com/TingtingXuA/TingtingXuA.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
